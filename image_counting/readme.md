@@ -1,0 +1,5 @@
+## readme
+
+
+
+Grain counting code

@@ -1,6 +1,0 @@
-## readme
-
-
-
-Computer vision coding
-
